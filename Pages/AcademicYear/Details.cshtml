@@ -1,0 +1,54 @@
+@page
+@model w0448225CourseMap.Pages_AcademicYear.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>AcademicYear</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AcademicYear.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AcademicYear.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AcademicYear.Semester)
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var item in @Model.AcademicYear.Semester.OrderBy(s => s.Name))
+            {
+                <span>@item.Name </span>
+            }
+        </dd>
+        <dt class="col-sm-2">
+            Advising Assignments: 
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var item in @Model.AcademicYear.DiplomaYearSection)
+            {
+                <ul class="border border-primary rounded">
+                    <li>
+                        Diploma: @item.DiplomaYear.Diploma.Title
+                    </li>
+                    <li>
+                        Year: @item.DiplomaYear.Title
+                    </li>
+                    <li>
+                        Advisor: @item.AdvisingAssignment.Instructor.FullName
+                    </li>
+                </ul>
+            }
+            
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.AcademicYear?.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
