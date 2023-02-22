@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YnwQz+fdWVf1HlvRme4ZkQYaUc57Up03okqH5I/ewojzwc1ZlQDEpvzipuo3jJ7FzncUoFuxv9dxh7A7BfJzFQ==",
+  "dgSpecHash": "zCm5+t9u2JfdVT4TKr8KRo2VAnwef5erBx0nesdlRkXYv6hrqRe9Duzw0WrNvmGetjSAB8BkJmZKG9miwjwBcg==",
   "success": true,
-  "projectFilePath": "E:\\NSCC\\Terms\\repo\\IWPWinter2023\\WEBD3000\\w0448225CourseMap\\w0448225CourseMap.csproj",
+  "projectFilePath": "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\w0448225CourseMap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

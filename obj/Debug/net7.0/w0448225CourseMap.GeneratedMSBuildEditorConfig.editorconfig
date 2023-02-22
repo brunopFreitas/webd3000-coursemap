@@ -9,269 +9,269 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = w0448225CourseMap
 build_property.RootNamespace = w0448225CourseMap
-build_property.ProjectDir = E:\NSCC\Terms\repo\IWPWinter2023\WEBD3000\w0448225CourseMap\
+build_property.ProjectDir = E:\NSCC\Terms\repo\webd3000-coursemap\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\NSCC\Terms\repo\IWPWinter2023\WEBD3000\w0448225CourseMap
+build_property.MSBuildProjectDirectory = E:\NSCC\Terms\repo\webd3000-coursemap
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/Account/Logout.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AcademicYear/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AcademicYear/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNhZGVtaWNZZWFyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AcademicYear/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AcademicYear/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNhZGVtaWNZZWFyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AcademicYear/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AcademicYear/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNhZGVtaWNZZWFyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AcademicYear/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AcademicYear/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNhZGVtaWNZZWFyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AcademicYear/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AcademicYear/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNhZGVtaWNZZWFyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AdvisingAssignment/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AdvisingAssignment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2aXNpbmdBc3NpZ25tZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AdvisingAssignment/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AdvisingAssignment/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2aXNpbmdBc3NpZ25tZW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AdvisingAssignment/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AdvisingAssignment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2aXNpbmdBc3NpZ25tZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AdvisingAssignment/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AdvisingAssignment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2aXNpbmdBc3NpZ25tZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/AdvisingAssignment/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/AdvisingAssignment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2aXNpbmdBc3NpZ25tZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CourseOffering/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CourseOffering/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT2ZmZXJpbmdcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CourseOffering/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CourseOffering/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT2ZmZXJpbmdcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CourseOffering/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CourseOffering/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT2ZmZXJpbmdcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CourseOffering/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CourseOffering/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT2ZmZXJpbmdcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CourseOffering/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CourseOffering/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlT2ZmZXJpbmdcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CoursePrerequisite/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CoursePrerequisite/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlUHJlcmVxdWlzaXRlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CoursePrerequisite/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CoursePrerequisite/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlUHJlcmVxdWlzaXRlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CoursePrerequisite/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CoursePrerequisite/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlUHJlcmVxdWlzaXRlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CoursePrerequisite/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CoursePrerequisite/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlUHJlcmVxdWlzaXRlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/CoursePrerequisite/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/CoursePrerequisite/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlUHJlcmVxdWlzaXRlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Course/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Course/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Course/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Course/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Course/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Course/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Course/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Course/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Course/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYearSection/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYearSection/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJTZWN0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYearSection/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYearSection/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJTZWN0aW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYearSection/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYearSection/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJTZWN0aW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYearSection/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYearSection/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJTZWN0aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYearSection/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYearSection/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJTZWN0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYear/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYear/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYear/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYear/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYear/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYear/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYear/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYear/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/DiplomaYear/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/DiplomaYear/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVllYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Diploma/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Diploma/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Diploma/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Diploma/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Diploma/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Diploma/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Diploma/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Diploma/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Diploma/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Diploma/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlwbG9tYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Error.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Instructor/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Instructor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Instructor/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Instructor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Instructor/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Instructor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Instructor/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Instructor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Instructor/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Instructor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Privacy.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Semester/Create.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Semester/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Semester/Delete.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Semester/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Semester/Details.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Semester/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Semester/Edit.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Semester/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Semester/Index.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Semester/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Shared/_LoginPartial.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/_ViewImports.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/_ViewStart.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/NSCC/Terms/repo/IWPWinter2023/WEBD3000/w0448225CourseMap/Pages/Shared/_Layout.cshtml]
+[E:/NSCC/Terms/repo/webd3000-coursemap/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6vcjew1frw
