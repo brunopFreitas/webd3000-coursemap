@@ -11,7 +11,7 @@ using w0448225CourseMap.Data;
 
 namespace w0448225CourseMap.Migrations
 {
-    [DbContext(typeof(w0448225CourseMapContext))]
+    [DbContext(typeof(ApplicationDbContext))]
     [Migration("20230204140039_CreateTable")]
     partial class CreateTable
     {

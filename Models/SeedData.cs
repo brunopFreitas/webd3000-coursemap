@@ -8,9 +8,9 @@ namespace w0448225CourseMap.Models
     {        
         public static void Initialize(IServiceProvider serviceProvider)
         {
-            using (var context = new w0448225CourseMapContext(
+            using (var context = new ApplicationDbContext(
                 serviceProvider.GetRequiredService<
-                    DbContextOptions<w0448225CourseMapContext>>()))
+                    DbContextOptions<ApplicationDbContext>>()))
             {
                 // Look for any diplomas.
                 // If there are no diplomas in the table,
@@ -23,7 +23,7 @@ namespace w0448225CourseMap.Models
         }
         
         
-    	private static void SeedTheDatabase(w0448225CourseMapContext context) 
+    	private static void SeedTheDatabase(ApplicationDbContext context) 
     	{
 
         #region SEED DIPLOMAS

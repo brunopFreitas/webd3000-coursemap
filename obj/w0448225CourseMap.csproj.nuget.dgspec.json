@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\w0448225CourseMap.csproj": {}
+    "/home/nsccstudent/Documents/git/webd3000-coursemap/w0448225CourseMap.csproj": {}
   },
   "projects": {
-    "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\w0448225CourseMap.csproj": {
+    "/home/nsccstudent/Documents/git/webd3000-coursemap/w0448225CourseMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\w0448225CourseMap.csproj",
+        "projectUniqueName": "/home/nsccstudent/Documents/git/webd3000-coursemap/w0448225CourseMap.csproj",
         "projectName": "w0448225CourseMap",
-        "projectPath": "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\w0448225CourseMap.csproj",
-        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\NSCC\\Terms\\repo\\webd3000-coursemap\\obj\\",
+        "projectPath": "/home/nsccstudent/Documents/git/webd3000-coursemap/w0448225CourseMap.csproj",
+        "packagesPath": "/home/nsccstudent/.nuget/packages/",
+        "outputPath": "/home/nsccstudent/Documents/git/webd3000-coursemap/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/nsccstudent/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/nsccstudent/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

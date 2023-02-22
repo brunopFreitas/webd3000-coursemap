@@ -12,9 +12,9 @@ namespace w0448225CourseMap.Pages_Course
 {
     public class DetailsModel : PageModel
     {
-        private readonly w0448225CourseMap.Data.w0448225CourseMapContext _context;
+        private readonly w0448225CourseMap.Data.ApplicationDbContext _context;
 
-        public DetailsModel(w0448225CourseMap.Data.w0448225CourseMapContext context)
+        public DetailsModel(w0448225CourseMap.Data.ApplicationDbContext context)
         {
             _context = context;
         }

@@ -7,7 +7,7 @@
 //          _comparisonProperty = comparisonProperty;
 //     }
 
-//     protected override ValidationResult IsValid(object value, w0448225CourseMap w0448225CourseMapContext)
+//     protected override ValidationResult IsValid(object value, w0448225CourseMap ApplicationDbContext)
 //     {
 //         ErrorMessage = ErrorMessageString;
 //         var currentValue = (DateTime)value;

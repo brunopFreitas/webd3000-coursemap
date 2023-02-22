@@ -10,8 +10,8 @@ using w0448225CourseMap.Data;
 
 namespace w0448225CourseMap.Migrations
 {
-    [DbContext(typeof(w0448225CourseMapContext))]
-    partial class w0448225CourseMapContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ApplicationDbContext))]
+    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

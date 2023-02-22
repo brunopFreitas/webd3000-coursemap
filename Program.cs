@@ -20,8 +20,6 @@ builder.Services.AddRazorPages(
     }
 );
 
-    builder.Services.AddDbContext<w0448225CourseMapContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("courseMapSQLServer")));
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("ApplicationDbContextConnection")));
 
