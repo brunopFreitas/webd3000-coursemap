@@ -21,7 +21,8 @@ builder.Services.AddRazorPages(
 );
 
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("ApplicationDbContextConnection")));
+        options.UseSqlServer(builder.Configuration.GetConnectionString("NSCCCourseMapProdDB")));
+        //options.UseSqlServer(builder.Configuration.GetConnectionString("NSCCCourseMapDevDB")));
 
     builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
 
